@@ -4,7 +4,6 @@
 <br/>
 
 ## Ödev 1 :
-<hr/>
 
 📌 Resimdeki CRM database model örneğine göre database oluşturuldu. <br/>
 📌 Tablolar arası ilişki kuruldu. <br/>
@@ -15,7 +14,6 @@
 <br/><br/>
 
 ## Ödev 2 :
-<hr/>
 
 
 📌Entity katmanında bulunan Model klasörü altındaki class'ların Dto class'ları oluşturuldu ve MappingProfile yapısına eklendi.
